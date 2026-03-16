@@ -1,14 +1,11 @@
 ### Olá! Eu sou o Eliesdras 👋
 
-<br/>
+👨‍💻 **Desenvolvedor Front-End** focado em criar interfaces web responsivas e intuitivas. Construindo soluções digitais modernas para otimizar negócios locais.
 
-**💻 Sobre Mim**
-Sou um estudante apaixonado por tecnologia em transição de carreira para o **Desenvolvimento Full Stack**. Atualmente, meu foco é dominar o Frontend e criar interfaces responsivas e intuitivas.
-
-- 🔭 Atualmente trabalhando no projeto: **Bistrô Marajó Digital**
-- 📚 Estudando: **HTML, CSS, Git/Github** (Curso B7Web)
-- 🎯 Objetivo: Minha primeira oportunidade como Desenvolvedor Júnior ou Estágio
-- 📍 Localização: Breves, Pará (Disponível para trabalho Remoto)
+* 🔭 **Atualmente desenvolvendo:** Digitalização do Bistrô Marajó (HTML, CSS, Responsividade).
+* 🌱 **Aprimorando o Stack:** HTML5, CSS3 e Desenvolvimento de Interfaces (Projetos Starbucks e B7Burguer).
+* 🎯 **Foco de Carreira:** Atuação como Desenvolvedor Júnior Front-End.
+* 📍 **Localização:** Breves, Pará (Disponível para atuação 100% Remota).
 
 <br/>
 
