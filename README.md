@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/thumbnail.jpg?raw=true" alt="Eliesdras Dias - Front-end Developer" width="100%" />
+  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/banner-eliesdras.png?raw=true" alt="Eliesdras Dias - Front-end Developer" width="100%" />
 </p>
 
 # Olá! Eu sou o Eliesdras 👋
