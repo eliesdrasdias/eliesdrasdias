@@ -45,7 +45,7 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliesdrasdias&theme=tokyonight&cache_id=1" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&hide=html,css&cache_id=1" alt="Linguagens" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
 </p>
 
 ---
