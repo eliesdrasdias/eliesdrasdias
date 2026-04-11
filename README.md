@@ -41,8 +41,11 @@
 ## 📊 Analytics e Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&v=1" alt="Linguagens" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=eliesdrasdias&cc=000&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas" />
+  <br><br>
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight" alt="Linguagens" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliesdrasdias&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
