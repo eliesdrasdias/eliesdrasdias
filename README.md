@@ -41,11 +41,11 @@
 ## 📊 Analytics e Atividade
 
 <p align="center">
-  <img src="https://anuraghazra-github-readme-stats.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas" />
-  <br><br>
+  <img src="https://metrics.lecoq.io/eliesdrasdias?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FBelem" alt="Métricas do GitHub" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliesdrasdias&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://anuraghazra-github-readme-stats.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens" />
 </p>
 
 ---
