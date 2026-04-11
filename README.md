@@ -41,15 +41,11 @@
 ## 📊 Analytics e Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas" />
-</p>
-
-<p align="center">
+  <img src="https://anuraghazra-github-readme-stats.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliesdrasdias&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens" />
+  <br><br>
+  <img src="https://anuraghazra-github-readme-stats.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens" />
 </p>
 
 ---
@@ -59,8 +55,6 @@
 * 🍽️ **[Bistrô Marajó Digital](https://eliesdrasdias.github.io/bistro-marajo/)** - Landing page para restaurante real, focada em conversão e metodologia Mobile First.
 * ☕ **[Starbucks UI Clone](https://eliesdrasdias.github.io/projeto-starbucks/)** - Reprodução pixel-perfect da interface para treino avançado de CSS Grid e Flexbox.
 
----
-<p align="center">
 ---
 
 ## 🐍 Histórico de Contribuições
