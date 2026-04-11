@@ -41,8 +41,8 @@
 ## 📊 Analytics e Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&hide=cpp,objective-c,powershell,shell" alt="Linguagens" />
-  <img src="https://github-readme-stats.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&v=1" alt="Linguagens" />
 </p>
 
 ---
