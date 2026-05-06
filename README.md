@@ -6,8 +6,9 @@
 
 👨‍💻 **Desenvolvedor Front-End** focado em criar interfaces web responsivas e intuitivas. Construindo soluções digitais modernas para otimizar negócios locais. No roadmap para 2026, consolidando a base para o Full-Stack.
 
-* 🔭 **Atualmente desenvolvendo:** Digitalização do Bistrô Marajó (HTML, CSS, Responsividade Avançada).
-* 🌱 **Aprimorando a Stack:** Iniciando a base de Lógica de Programação e os primeiros passos em JavaScript.
+* 🔭 **Atualmente desenvolvendo:** Digitalização do Bistrô Marajó (Implementação do JS).
+* 🌱 **Aprimorando a Stack:** Aprimorando a Stack: Projetos práticos focados em JavaScript avançado.
+* 🌱 **Próximos passos:** Iniciando estudos em Tailwind CSS para acelerar e otimizar a componentização de interfaces.
 * 🎯 **Foco de Carreira:** Atuação como Desenvolvedor Júnior Front-End.
 * 📍 **Localização:** Breves, Pará (Disponível para atuação 100% Remota).
 
