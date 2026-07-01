@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/banner-eliesdras.png?raw=true" alt="Eliesdras Dias - Front-end Developer" width="100%" />
+  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/banner-eliesdras.png?raw=true" alt="Eliesdras Dias - Fullstack Developer" width="100%" />
 </p>
 
 # Olá! Eu sou o Eliesdras 👋
 
-👨‍💻 **Desenvolvedor Front-End** focado em criar interfaces web responsivas e intuitivas. Construindo soluções digitais modernas para otimizar negócios locais. No roadmap para 2026, consolidando a base para o Full-Stack.
+👨‍💻 **Desenvolvedor Fullstack** focado em unir interfaces web responsivas e intuitivas com APIs robustas no servidor. Construindo soluções digitais completas de ponta a ponta e consolidando a integração entre o Front e o Back-end no roadmap para 2026.
 
-* 🔭 **Atualmente desenvolvendo:** Digitalização do Bistrô Marajó (Implementação do JS).
-* 🌱 **Aprimorando a Stack:** Especialização no ecossistema JavaScript, com ênfase no desenvolvimento de interfaces utilizando React e Tailwind CSS.
-* 🎯 **Foco de Carreira:** Atuação como Desenvolvedor Júnior Front-End.
+* 🔭 **Atualmente desenvolvendo:** Digitalização do Bistrô Marajó e avançando na integração de sistemas através da Jornada Fullstack.
+* 🌱 **Aprimorando a Stack:** Especialização no ecossistema Web (HTML, CSS, JavaScript) e no desenvolvimento de APIs RESTful (Go e, futuramente, Node.js).
+* 🎯 **Foco de Carreira:** Atuação como Desenvolvedor Júnior ou Estagiário Fullstack.
 
 ---
 
@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40">
 </div>
 
@@ -52,6 +53,7 @@
 ## 💻 Projetos em Destaque
 
 * 🍽️ **[Bistrô Marajó Digital](https://eliesdrasdias.github.io/bistro-marajo/)** - Landing page para restaurante real, focada em conversão e metodologia Mobile First.
+* ⚙️ **[Go Books API](https://github.com/eliesdrasdias/go-books-api)** - API RESTful desenvolvida em Go, focada na gestão e persistência de dados no back-end.
 * ☕ **[Starbucks UI Clone](https://eliesdrasdias.github.io/projeto-starbucks/)** - Reprodução pixel-perfect da interface para treino avançado de CSS Grid e Flexbox.
 
 ---
