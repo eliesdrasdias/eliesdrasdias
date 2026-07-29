@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/banner-fullstack.jpeg?raw=true" alt="Eliesdras Dias - Fullstack Developer" width="100%" />
+  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/banner-backend.jpeg?raw=true" alt="Eliesdras Dias - Desenvolvedor Backend" width="100%" />
 </p>
 
-# Olá! Eu sou o Eliesdras 👋
+# Olá! Eu sou o Eliesdras
 
-👨‍💻 **Desenvolvedor Fullstack** focado em unir interfaces web responsivas e intuitivas com APIs robustas no servidor. Construindo soluções digitais completas de ponta a ponta e consolidando a integração entre o Front e o Back-end no roadmap para 2026.
+ **Desenvolvedor focado em Backend**, construindo APIs REST eficientes e escaláveis. Minha trajetória profissional começou no atendimento ao cliente, onde desenvolvi a habilidade crucial de ouvir e entender dores de negócios reais para transformá-las em soluções técnicas estáveis e seguras.
 
-* 🔭 **Atualmente desenvolvendo:** Digitalização do Bistrô Marajó e avançando na integração de sistemas através da Jornada Fullstack.
-* 🌱 **Aprimorando a Stack:** Especialização no ecossistema Web (HTML, CSS, JavaScript) e no desenvolvimento de APIs RESTful (Go e, futuramente, Node.js).
-* 🎯 **Foco de Carreira:** Atuação como Desenvolvedor Júnior ou Estagiário Fullstack.
+* 🌱 **Aprimorando a Stack:** Ecossistema Node.js, TypeScript, modelagem de banco de dados e arquitetura limpa.
+* 🎯 **Foco de Carreira:** Atuação como Estagiário ou Desenvolvedor Júnior em Backend.
 
 ---
 
@@ -29,13 +28,20 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40">
 </div>
 
+---
+
+## Projeto em Destaque
+
+* **[Bistrô Marajó | Sistema de Cardápio Dinâmico](https://eliesdrasdias.github.io/bistro-marajo/)** - Aplicação em desenvolvimento para resolver um problema real de negócio local. Interface Mobile First concluída, atualmente construindo a API Backend (Node.js/TS).
 ---
 
 ## 📊 Analytics e Atividade
@@ -47,14 +53,6 @@
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliesdrasdias&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
 </p>
-
----
-
-## 💻 Projetos em Destaque
-
-* 🍽️ **[Bistrô Marajó Digital](https://eliesdrasdias.github.io/bistro-marajo/)** - Landing page para restaurante real, focada em conversão e metodologia Mobile First.
-* ⚙️ **[Go Books API](https://github.com/eliesdrasdias/go-books-api)** - API RESTful desenvolvida em Go, focada na gestão e persistência de dados no back-end.
-* ☕ **[Starbucks UI Clone](https://eliesdrasdias.github.io/projeto-starbucks/)** - Reprodução pixel-perfect da interface para treino avançado de CSS Grid e Flexbox.
 
 ---
 
