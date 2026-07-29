@@ -6,8 +6,8 @@
 
  **Desenvolvedor focado em Backend**, construindo APIs REST eficientes e escaláveis. Minha trajetória profissional começou no atendimento ao cliente, onde desenvolvi a habilidade crucial de ouvir e entender dores de negócios reais para transformá-las em soluções técnicas estáveis e seguras.
 
-* 🌱 **Aprimorando a Stack:** Ecossistema Node.js, TypeScript, modelagem de banco de dados e arquitetura limpa.
-* 🎯 **Foco de Carreira:** Atuação como Estagiário ou Desenvolvedor Júnior em Backend.
+* **Aprimorando a Stack:** Ecossistema Node.js, TypeScript, modelagem de banco de dados e arquitetura limpa.
+* **Foco de Carreira:** Atuação como Estagiário ou Desenvolvedor Júnior em Backend.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="margin-right: 10px;">
@@ -44,7 +44,7 @@
 * **[Bistrô Marajó | Sistema de Cardápio Dinâmico](https://eliesdrasdias.github.io/bistro-marajo/)** - Aplicação em desenvolvimento para resolver um problema real de negócio local. Interface Mobile First concluída, atualmente construindo a API Backend (Node.js/TS).
 ---
 
-## 📊 Analytics e Atividade
+## Analytics e Atividade
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eliesdrasdias&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Estatísticas" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🐍 Histórico de Contribuições
+## Histórico de Contribuições
 
 <p align="center">
   <picture>
