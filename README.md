@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="https://github.com/eliesdrasdias/eliesdrasdias/blob/main/banner-backend.jpeg?raw=true" alt="Eliesdras Dias - Desenvolvedor Backend" width="100%" />
-</p>
+<div align="center">
+  <h1>Olá! Eu sou o Eliesdras 👋</h1>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Construindo+APIs+e+Interfaces;Golang,+Node.js+%26+TypeScript" alt="Typing SVG" />
+</a>
+</div>
 
-# Olá! Eu sou o Eliesdras
+<br/>
 
- **Desenvolvedor focado em Backend**, construindo APIs REST eficientes e escaláveis. Minha trajetória profissional começou no atendimento ao cliente, onde desenvolvi a habilidade crucial de ouvir e entender dores de negócios reais para transformá-las em soluções técnicas estáveis e seguras.
+**Desenvolvedor Fullstack**, Desenvolvedor Fullstack focado em construir aplicações robustas de ponta a ponta. Especializado no desenvolvimento de APIs REST eficientes e escaláveis, e na criação de interfaces de usuário dinâmicas. Minha atuação é fundamentada em código limpo, boas práticas e adoção de arquiteturas modernas, sempre com o objetivo de transformar requisitos complexos em soluções de alto desempenho e fácil manutenção.
 
-* **Aprimorando a Stack:** Ecossistema Node.js, TypeScript, modelagem de banco de dados e arquitetura limpa.
-* **Foco de Carreira:** Atuação como Estagiário ou Desenvolvedor Júnior em Backend.
+* **Aprimorando a Stack:** Ecossistema Node.js, Golang, TypeScript, modelagem de banco de dados, Docker e Arquitetura de Software.
 
 ---
 
@@ -28,20 +30,27 @@
 ## Tecnologias & Ferramentas
 
 <div align="left">
+  <!-- Backend & Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="margin-right: 10px;">
+  
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" style="margin-right: 10px;">
+  
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40">
 </div>
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
+* **[Bistrô Marajó | Sistema de Cardápio Dinâmico](https://eliesdrasdias.github.io/bistro-marajo/)** - Aplicação para resolver um problema real de negócio local. Interface Mobile First criada com Vanilla JS e Fetch API, consumindo dados dinâmicos via JSON. Em evolução para integração com API Node.js/TS.
 
-* **[Bistrô Marajó | Sistema de Cardápio Dinâmico](https://eliesdrasdias.github.io/bistro-marajo/)** - Aplicação em desenvolvimento para resolver um problema real de negócio local. Interface Mobile First concluída, atualmente construindo a API Backend (Node.js/TS).
 ---
 
 ## Analytics e Atividade
